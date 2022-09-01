@@ -1,0 +1,17 @@
+.filter {
+    margin-top: 10px;
+    width: 110px;
+    height: 15px;
+    cursor: pointer;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 109%;
+    /* or 15px */
+
+    text-decoration-line: underline;
+
+    color: #000000;
+}

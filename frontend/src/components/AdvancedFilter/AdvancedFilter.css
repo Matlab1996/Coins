@@ -1,0 +1,60 @@
+.advancedFilter {
+    margin-top: 25px;
+    display: flex;
+}
+
+.left {
+    margin-right: 30px;
+}
+
+.label {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 109%;
+    /* or 15px */
+
+
+    color: #000000;
+}
+
+select {
+    box-sizing: border-box;
+    margin-top: 5px;
+    padding: 15px;
+    width: 374px;
+    height: 60px;
+    border: 1px solid #000000;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 121%;
+
+    color: #000000;
+}
+
+.metals{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.year {
+    margin-top: 20px;
+}
+
+.right input {
+    box-sizing: border-box;
+    width: 155px;
+    height: 60px;
+}
+
+label {
+    margin-right: 15px;
+}
+
+.fromTo{
+    margin-top: 5px;
+}

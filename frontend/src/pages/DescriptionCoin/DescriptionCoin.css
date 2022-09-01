@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.descPage {
+    margin-top: 50px;
+    margin-left: 250px;
+    height: 625px;
+    width: 780px;
+    display: flex;
+}
+
+.imageBlock {
+    width: 300px;
+    height: 625px;
+    margin-right: 30px;
+}
+
+.reverse, .obverse {
+    display: block;
+    width: 300px;
+    height: 300px;
+}
+
+.reverse{
+    margin-bottom: 25px;
+}
+
+.descBlock {
+    width: 450px;
+    padding: 20px 40px;
+    box-sizing: border-box;
+
+    background: #E1E1E1;
+}
+
+.titleCoin {
+    width: 370px;
+    margin-bottom: 20px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+
+    color: #000000;
+}
+
+.descCoin{
+    width: 370px;
+    margin-bottom: 40px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 125%;
+    /* or 15px */
+
+    color: #000000;
+}
+
+table {
+    width: 370px;
+    margin-bottom: 20px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 105.2%;
+}
+
+td {
+    margin: 0;
+    width: 185px;
+    height: 20px;
+    padding: 5px;
+    border-right: 0.5px solid #B1ACAC;
+    border-bottom: 0.5px solid #B1ACAC;
+}
+
+.odd{
+    background-color: white;
+}
+
+.even {
+    background-color: #E1E1E1;
+}
+
+.backToList{
+    margin-bottom: 20px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+
+    color: #000000;
+}

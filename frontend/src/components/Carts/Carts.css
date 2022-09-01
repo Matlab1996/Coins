@@ -1,0 +1,43 @@
+.main {
+    display: flex;
+    margin-top: 60px;
+}
+
+.cart{
+    width: 300px;
+    height: 290px;
+    margin-right: 105px;
+}
+
+h1{
+    margin-bottom: 20px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 100%;
+    /* or 28px */
+
+    color: #000000;
+}
+
+a {
+    display: block;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 109%;
+    /* or 15px */
+
+    color: #000000;
+}
+
+.imageHome {
+    margin-top: 10px;
+
+    width: 214px;
+    height: 214px; 
+}
